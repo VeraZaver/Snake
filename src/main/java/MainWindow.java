@@ -7,7 +7,7 @@ public class MainWindow extends JFrame {
         setDefaultCloseOperation(
                 WindowConstants.EXIT_ON_CLOSE
         );
-        setSize(320, 345);
+        setSize(347, 367);
         setLocation(400, 600);
         add(new GameField());
         setVisible(true);
